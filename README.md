@@ -1,6 +1,6 @@
 # Photomaker
 
-Welcome to Photomaker! This repository hosts the codebase for a Google Colab Notebook implementation of Photomaker. Photomaker the customization of realistic human photos via stacked ID embedding to generate high-quality images with various styles and characteristics.
+Welcome to Photomaker Colab repository! This repository hosts the codebase for a Google Colab Notebook implementation of Photomaker. Photomaker the customization of realistic human photos via stacked ID embedding to generate high-quality images with various styles and characteristics.
 
 🐣 Please follow me for new updates [here](https://github.com/chronomustard)
 
@@ -20,13 +20,13 @@ Find the complete source code for Photomaker in this repository:
 
 ## Paper
 
-Read about the underlying methodology and research behind Photomaker in our paper:
+Read about the underlying methodology and research behind Photomaker in the research paper:
 
 [https://arxiv.org/abs/2312.04461](https://arxiv.org/abs/2312.04461)
 
 ## Page
 
-Visit our project page for more information and updates:
+Visit the official project page for more information and updates:
 
 [https://photo-maker.github.io/](https://photo-maker.github.io/)
 
